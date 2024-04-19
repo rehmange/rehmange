@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Snake animation](https://github.com/rehmange/rehmange/blob/main/grid-snake.svg)
 <!--
 **rehmange/rehmange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
