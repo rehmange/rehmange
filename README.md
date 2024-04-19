@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## ✍️ Random Dev Quote:
-"Code is like humor. When you have to explain it, it’s bad." 😄
+![]"Code is like humor. When you have to explain it, it’s bad." 😄
 
 Let's connect and build something awesome together!
 ![Snake animation](https://github.com/rehmange/rehmange/blob/main/grid-snake.svg)
